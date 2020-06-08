@@ -16,3 +16,4 @@ Those skills, along with my ability to learn, will prove to be efficient in this
 <sub>Compilation of data science projets that I've done and will do.</sub>
 
 • **São Paulo Criminality Map:** https://bit.ly/2Btwu20
+• **Rio de Janeiro Exploratory Analysis:** https://bit.ly/30fVDrv

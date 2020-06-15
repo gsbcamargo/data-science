@@ -18,7 +18,13 @@ Those skills, along with my ability to learn, will prove to be efficient in this
 - **São Paulo Criminality Map:** https://bit.ly/2Btwu20
 - **Rio de Janeiro Exploratory Analysis:** https://bit.ly/30fVDrv
 
+### Introductory Lessons
+
+- **Intro to Pandas:** https://bit.ly/37z3PVd
 
 ### Datasets:
 
 - **Collection of datasets organized by subject (mostly):** https://bit.ly/3fsprpd
+
+
+<sub>English versions of the projects/lessons are going to be added soon.</sub>

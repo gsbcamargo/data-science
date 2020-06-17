@@ -21,6 +21,7 @@ Those skills, along with my ability to learn, will prove to be efficient in this
 ### Introductory Lessons
 
 - **Intro to Pandas:** https://bit.ly/37z3PVd
+- **Creating and modifying DataFrames - an introduction:** https://bit.ly/3eb4M8J
 
 ### Datasets:
 
